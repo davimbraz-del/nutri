@@ -1,0 +1,12 @@
+# build/check artifacts from the design-taste-frontend skill (screenshots, chrome profiles, logs)
+.taste-skill/
+
+# stray local artifact, not part of the project
+Melo/
+
+# local Claude Code session state
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
